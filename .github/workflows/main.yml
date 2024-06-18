@@ -6,6 +6,7 @@ jobs:
     runs-on: ubuntu-latest  # Runner operating system
 
     steps:  # Steps within the job
+     - uses: actions/checkout@v3
      - uses: lowlighter/metrics@latest
      - with:
         filename: metrics.plugin.leetcode.svg
