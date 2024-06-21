@@ -2,9 +2,8 @@
 
 This repository contains my solutions to LeetCode problems.
 
-This repository contains automated workflow through GitHub Actions with the help of Metrics and manually push code through LeetPush.
+This repository contains automated workflow to push code from LeetCode through LeetPush.
 
-- [LeetPush](https://github.com/husamahmud/LeetPush) <br>
-- [Metrics](https://github.com/lowlighter/metrics)
+- [LeetPush](https://github.com/husamahmud/LeetPush) 
 
  Happy coding! 🚀
